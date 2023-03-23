@@ -2,13 +2,13 @@
   "ads": {
     "settings": {
       "app_id_onesignal": "3e0ca7e8-d495-4bf2-a635-9c483f053361",
-      "interval_interstitial": 3
+      "interval_interstitial": 1
     },
 
     "ad_network": [
       {
         "name": "admob",
-        "value": 0,
+        "value": 10,
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "-",
@@ -20,7 +20,7 @@
       },
       {
         "name": "max",
-        "value": 0,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "-",
